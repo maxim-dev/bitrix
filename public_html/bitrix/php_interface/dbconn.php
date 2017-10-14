@@ -5,7 +5,7 @@ $DBType = "mysql";
 $DBHost = "percona";
 $DBLogin = "homestead";
 $DBPassword = "secret";
-$DBName = "homestead";
+$DBName = "bitrix";
 $DBDebug = false;
 $DBDebugToFile = false;
 
@@ -24,6 +24,5 @@ define("BX_UTF", true);
 define("BX_FILE_PERMISSIONS", 0644);
 define("BX_DIR_PERMISSIONS", 0755);
 @umask(~BX_DIR_PERMISSIONS);
-@ini_set("memory_limit", "512M");
 define("BX_DISABLE_INDEX_PAGE", true);
 ?>

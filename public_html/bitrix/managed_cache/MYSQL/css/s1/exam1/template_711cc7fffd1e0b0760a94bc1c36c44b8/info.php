@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/local/templates/exam1/css/reset.css" => "14918076282466","/local/templates/exam1/css/owl.carousel.css" => "14918076304507","/bitrix/components/bitrix/menu/templates/horizontal_multilevel/style.css" => "15061627663715","/local/templates/exam1/styles.css" => "150676399456574",), 'CUR_SEL_CNT' => '784', 'CUR_IE_CNT' => '0'); ?>
