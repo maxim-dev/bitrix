@@ -15,28 +15,65 @@
         <entry file="file://$PROJECT_DIR$/public_html/login/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="26" />
+              <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/news/review/bitrix/news.list/.default/template.php">
+      <file leaf-file-name="component.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_html/bitrix/components/bitrix/main.register/component.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="94" column="32" lean-forward="false" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="84" />
+            <state relative-caret-position="605">
+              <caret line="306" column="22" lean-forward="false" selection-start-line="306" selection-start-column="22" selection-end-line="306" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="news.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/news/review/news.php">
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_html/bitrix/modules/main/classes/general/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-508">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="199">
+              <caret line="245" column="43" lean-forward="false" selection-start-line="245" selection-start-column="43" selection-end-line="245" selection-end-column="43" />
+              <folding>
+                <marker date="1506162187000" expanded="true" signature="64237:64538" ph="SELECT MG.G_... b_group" />
+                <marker date="1506162187000" expanded="true" signature="68044:68309" ph="SELECT max(M... b_module_group" />
+                <marker date="1506162187000" expanded="true" signature="69441:69723" ph="SELECT MG.G_... b_module_group" />
+                <marker date="1506162187000" expanded="true" signature="71417:71541" ph="SELECT G_ACC... b_module_group" />
+                <marker date="1506162187000" expanded="true" signature="73148:73286" ph="SELECT GROUP... b_module_group" />
+                <marker date="1506162187000" expanded="true" signature="73578:73697" ph="DELETE FROM " />
+                <marker date="1506162187000" expanded="true" signature="73813:73901" ph="DELETE FROM " />
+                <marker date="1506162187000" expanded="true" signature="74039:74111" ph="DELETE FROM " />
+                <marker date="1506162187000" expanded="true" signature="77170:77334" ph="SELECT DOMAI... " />
+                <marker date="1506162187000" expanded="true" signature="77803:77840" ph="SELECT * FRO... b_lang_domain" />
+                <marker date="1506162187000" expanded="true" signature="107112:107183" ph="SELECT 'x' F... b_lang" />
+                <marker date="1506162187000" expanded="true" signature="107634:107693" ph="DELETE FROM " />
+                <marker date="1506162187000" expanded="true" signature="108214:108320" ph="INSERT INTO b_lang_domain... " />
+                <marker date="1506162187000" expanded="true" signature="108370:108464" ph="UPDATE b_lan... " />
+                <marker date="1506162187000" expanded="true" signature="108846:108885" ph="UPDATE b_lan... " />
+                <marker date="1506162187000" expanded="true" signature="109000:109068" ph="INSERT INTO b_lang... " />
+                <marker date="1506162187000" expanded="true" signature="109579:109863" ph="INSERT INTO b_site_template... " />
+                <marker date="1506162187000" expanded="true" signature="110403:110442" ph="UPDATE b_lan... " />
+                <marker date="1506162187000" expanded="true" signature="110582:110650" ph="UPDATE b_lan... " />
+                <marker date="1506162187000" expanded="true" signature="111108:111172" ph="DELETE FROM " />
+                <marker date="1506162187000" expanded="true" signature="111309:111580" ph="INSERT INTO b_site_template... " />
+                <marker date="1506162187000" expanded="true" signature="112744:112816" ph="DELETE FROM " />
+                <marker date="1506162187000" expanded="true" signature="112856:112917" ph="DELETE FROM " />
+                <marker date="1506162187000" expanded="true" signature="113039:113110" ph="UPDATE b_eve... " />
+                <marker date="1506162187000" expanded="true" signature="113150:113217" ph="DELETE FROM " />
+                <marker date="1506162187000" expanded="true" signature="113411:113465" ph="DELETE FROM " />
+                <marker date="1506162187000" expanded="true" signature="120915:120921" ph=" " />
+                <marker date="1506162187000" expanded="true" signature="127203:127258" ph="SELECT * FRO... b_lang_domain" />
+                <marker date="1506162187000" expanded="true" signature="127816:127853" ph="SELECT * FRO... b_lang_domain" />
+                <marker date="1506162187000" expanded="true" signature="132056:132131" ph="SELECT 'x' F... b_language" />
+                <marker date="1506162187000" expanded="true" signature="132731:132774" ph="UPDATE b_lan... " />
+                <marker date="1506162187000" expanded="true" signature="132833:132905" ph="INSERT INTO b_language... " />
+                <marker date="1506162187000" expanded="true" signature="133418:133461" ph="UPDATE b_lan... " />
+                <marker date="1506162187000" expanded="true" signature="133577:133649" ph="UPDATE b_lan... " />
+                <marker date="1506162187000" expanded="true" signature="134481:134539" ph="DELETE FROM " />
+                <marker date="1506162187000" expanded="true" signature="143520:143563" ph="DELETE FROM " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,44 +81,14 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="56" column="57" lean-forward="false" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
+            <state relative-caret-position="261">
+              <caret line="66" column="20" lean-forward="false" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main_auth.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/Ex1DemoMaterials/html/main_auth.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/system.auth.form/demo/template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/bitrix/components/bitrix/system.auth.form/templates/.default/template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-517">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="component.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="component.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/bitrix/components/bitrix/system.auth.form/component.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="302">
@@ -91,21 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".parameters.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/bitrix/components/bitrix/system.auth.form/.parameters.php">
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/system.auth.form/demo/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/system.auth.form/demo/lang/ru/template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="708">
+              <caret line="67" column="56" lean-forward="false" selection-start-line="67" selection-start-column="56" selection-end-line="67" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -126,6 +123,10 @@
       <find>img</find>
       <find>eview-img-wrap</find>
       <find>FORM_TYPE</find>
+      <find>arpa</find>
+      <find>register</find>
+      <find>forgot_password</find>
+      <find>forgot</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,8 +144,8 @@
         <option value="$PROJECT_DIR$/public_html/bitrix/.settings.php" />
         <option value="$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/news/review/bitrix/news.list/.default/template.php" />
         <option value="$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/news/review/bitrix/news.detail/.default/template.php" />
-        <option value="$PROJECT_DIR$/public_html/login/index.php" />
         <option value="$PROJECT_DIR$/public_html/local/templates/exam1/header.php" />
+        <option value="$PROJECT_DIR$/public_html/login/index.php" />
         <option value="$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/system.auth.form/demo/template.php" />
       </list>
     </option>
@@ -183,6 +184,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,63 +206,81 @@
               <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="system.auth.form" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="system.auth.form" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="exam1" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="exam1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="exam1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="exam1" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="system.auth.form" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name=".default" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="exam1" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="system.auth.form" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="login" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -302,24 +322,26 @@
       <workItem from="1506796523479" duration="710000" />
       <workItem from="1506969709082" duration="101000" />
       <workItem from="1507138826792" duration="2051000" />
-      <workItem from="1507971035738" duration="9386000" />
+      <workItem from="1507971035738" duration="9987000" />
+      <workItem from="1508572715862" duration="2883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15924000" />
+    <option name="totallyTimeSpent" value="19408000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1868" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1868" height="1057" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20556745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20556745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -328,7 +350,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -347,55 +368,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="119" column="23" lean-forward="false" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/upload/tmp/demo-content-iblock/rew.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laradock-bitrix/php-fpm/php56.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laradock-bitrix/percona/my.cnf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/upload/tmp/demo-content-iblock/rew.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laradock-bitrix/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2023">
-          <caret line="119" column="23" lean-forward="false" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -411,7 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6596">
           <caret line="388" column="22" lean-forward="false" selection-start-line="388" selection-start-column="22" selection-end-line="388" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -419,7 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="119" column="23" lean-forward="false" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -435,7 +405,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -443,7 +412,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -451,7 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="119" column="23" lean-forward="false" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -467,7 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7905">
           <caret line="465" column="19" lean-forward="false" selection-start-line="465" selection-start-column="19" selection-end-line="465" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -483,7 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="119" column="23" lean-forward="false" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -491,7 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -499,7 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="119" column="23" lean-forward="false" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -515,7 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7905">
           <caret line="465" column="19" lean-forward="false" selection-start-line="465" selection-start-column="19" selection-end-line="465" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -531,7 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="119" column="23" lean-forward="false" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1785">
           <caret line="119" column="23" lean-forward="false" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -547,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5820">
           <caret line="388" column="22" lean-forward="false" selection-start-line="388" selection-start-column="22" selection-end-line="388" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -555,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -563,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -571,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -579,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -587,7 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -595,7 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -619,7 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,7 +592,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/news/review/news.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-508">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -650,7 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-594">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -658,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="43" column="75" lean-forward="false" selection-start-line="43" selection-start-column="75" selection-end-line="43" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -666,30 +616,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/news/review/bitrix/news.list/.default/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
+        <state relative-caret-position="1410">
           <caret line="94" column="32" lean-forward="false" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/login/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="56" column="57" lean-forward="false" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -698,22 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="47" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/system.auth.form/demo/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/bitrix/components/bitrix/system.auth.form/.parameters.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -728,8 +645,117 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public_html/bitrix/components/bitrix/system.auth.form/templates/.default/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-517">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/login/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bitrix/public/bitrix/modules/main/include.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/bitrix/components/bitrix/system.auth.form/.parameters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/bitrix/modules/main/include.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1230" lean-forward="false" selection-start-line="0" selection-start-column="1230" selection-end-line="0" selection-end-column="1230" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/bitrix/modules/main/classes/general/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="245" column="43" lean-forward="false" selection-start-line="245" selection-start-column="43" selection-end-line="245" selection-end-column="43" />
+          <folding>
+            <marker date="1506162187000" expanded="true" signature="64237:64538" ph="SELECT MG.G_... b_group" />
+            <marker date="1506162187000" expanded="true" signature="68044:68309" ph="SELECT max(M... b_module_group" />
+            <marker date="1506162187000" expanded="true" signature="69441:69723" ph="SELECT MG.G_... b_module_group" />
+            <marker date="1506162187000" expanded="true" signature="71417:71541" ph="SELECT G_ACC... b_module_group" />
+            <marker date="1506162187000" expanded="true" signature="73148:73286" ph="SELECT GROUP... b_module_group" />
+            <marker date="1506162187000" expanded="true" signature="73578:73697" ph="DELETE FROM " />
+            <marker date="1506162187000" expanded="true" signature="73813:73901" ph="DELETE FROM " />
+            <marker date="1506162187000" expanded="true" signature="74039:74111" ph="DELETE FROM " />
+            <marker date="1506162187000" expanded="true" signature="77170:77334" ph="SELECT DOMAI... " />
+            <marker date="1506162187000" expanded="true" signature="77803:77840" ph="SELECT * FRO... b_lang_domain" />
+            <marker date="1506162187000" expanded="true" signature="107112:107183" ph="SELECT 'x' F... b_lang" />
+            <marker date="1506162187000" expanded="true" signature="107634:107693" ph="DELETE FROM " />
+            <marker date="1506162187000" expanded="true" signature="108214:108320" ph="INSERT INTO b_lang_domain... " />
+            <marker date="1506162187000" expanded="true" signature="108370:108464" ph="UPDATE b_lan... " />
+            <marker date="1506162187000" expanded="true" signature="108846:108885" ph="UPDATE b_lan... " />
+            <marker date="1506162187000" expanded="true" signature="109000:109068" ph="INSERT INTO b_lang... " />
+            <marker date="1506162187000" expanded="true" signature="109579:109863" ph="INSERT INTO b_site_template... " />
+            <marker date="1506162187000" expanded="true" signature="110403:110442" ph="UPDATE b_lan... " />
+            <marker date="1506162187000" expanded="true" signature="110582:110650" ph="UPDATE b_lan... " />
+            <marker date="1506162187000" expanded="true" signature="111108:111172" ph="DELETE FROM " />
+            <marker date="1506162187000" expanded="true" signature="111309:111580" ph="INSERT INTO b_site_template... " />
+            <marker date="1506162187000" expanded="true" signature="112744:112816" ph="DELETE FROM " />
+            <marker date="1506162187000" expanded="true" signature="112856:112917" ph="DELETE FROM " />
+            <marker date="1506162187000" expanded="true" signature="113039:113110" ph="UPDATE b_eve... " />
+            <marker date="1506162187000" expanded="true" signature="113150:113217" ph="DELETE FROM " />
+            <marker date="1506162187000" expanded="true" signature="113411:113465" ph="DELETE FROM " />
+            <marker date="1506162187000" expanded="true" signature="120915:120921" ph=" " />
+            <marker date="1506162187000" expanded="true" signature="127203:127258" ph="SELECT * FRO... b_lang_domain" />
+            <marker date="1506162187000" expanded="true" signature="127816:127853" ph="SELECT * FRO... b_lang_domain" />
+            <marker date="1506162187000" expanded="true" signature="132056:132131" ph="SELECT 'x' F... b_language" />
+            <marker date="1506162187000" expanded="true" signature="132731:132774" ph="UPDATE b_lan... " />
+            <marker date="1506162187000" expanded="true" signature="132833:132905" ph="INSERT INTO b_language... " />
+            <marker date="1506162187000" expanded="true" signature="133418:133461" ph="UPDATE b_lan... " />
+            <marker date="1506162187000" expanded="true" signature="133577:133649" ph="UPDATE b_lan... " />
+            <marker date="1506162187000" expanded="true" signature="134481:134539" ph="DELETE FROM " />
+            <marker date="1506162187000" expanded="true" signature="143520:143563" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/bitrix/components/bitrix/main.register/component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="306" column="22" lean-forward="false" selection-start-line="306" selection-start-column="22" selection-end-line="306" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="66" column="20" lean-forward="false" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -738,6 +764,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="80" column="28" lean-forward="false" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/system.auth.form/demo/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="67" column="56" lean-forward="false" selection-start-line="67" selection-start-column="56" selection-end-line="67" selection-end-column="56" />
           <folding />
         </state>
       </provider>
