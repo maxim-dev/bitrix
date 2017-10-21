@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96a7d417-cec9-4b7d-8e19-643697ece73b" name="Default" comment="" />
+    <list default="true" id="96a7d417-cec9-4b7d-8e19-643697ece73b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laradock-bitrix/.gitignore" afterPath="$PROJECT_DIR$/laradock-bitrix/.gitignore" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,98 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="242">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/login/index.php">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/laradock-bitrix/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="component.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/bitrix/components/bitrix/main.register/component.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="605">
-              <caret line="306" column="22" lean-forward="false" selection-start-line="306" selection-start-column="22" selection-end-line="306" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/bitrix/modules/main/classes/general/main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="245" column="43" lean-forward="false" selection-start-line="245" selection-start-column="43" selection-end-line="245" selection-end-column="43" />
-              <folding>
-                <marker date="1506162187000" expanded="true" signature="64237:64538" ph="SELECT MG.G_... b_group" />
-                <marker date="1506162187000" expanded="true" signature="68044:68309" ph="SELECT max(M... b_module_group" />
-                <marker date="1506162187000" expanded="true" signature="69441:69723" ph="SELECT MG.G_... b_module_group" />
-                <marker date="1506162187000" expanded="true" signature="71417:71541" ph="SELECT G_ACC... b_module_group" />
-                <marker date="1506162187000" expanded="true" signature="73148:73286" ph="SELECT GROUP... b_module_group" />
-                <marker date="1506162187000" expanded="true" signature="73578:73697" ph="DELETE FROM " />
-                <marker date="1506162187000" expanded="true" signature="73813:73901" ph="DELETE FROM " />
-                <marker date="1506162187000" expanded="true" signature="74039:74111" ph="DELETE FROM " />
-                <marker date="1506162187000" expanded="true" signature="77170:77334" ph="SELECT DOMAI... " />
-                <marker date="1506162187000" expanded="true" signature="77803:77840" ph="SELECT * FRO... b_lang_domain" />
-                <marker date="1506162187000" expanded="true" signature="107112:107183" ph="SELECT 'x' F... b_lang" />
-                <marker date="1506162187000" expanded="true" signature="107634:107693" ph="DELETE FROM " />
-                <marker date="1506162187000" expanded="true" signature="108214:108320" ph="INSERT INTO b_lang_domain... " />
-                <marker date="1506162187000" expanded="true" signature="108370:108464" ph="UPDATE b_lan... " />
-                <marker date="1506162187000" expanded="true" signature="108846:108885" ph="UPDATE b_lan... " />
-                <marker date="1506162187000" expanded="true" signature="109000:109068" ph="INSERT INTO b_lang... " />
-                <marker date="1506162187000" expanded="true" signature="109579:109863" ph="INSERT INTO b_site_template... " />
-                <marker date="1506162187000" expanded="true" signature="110403:110442" ph="UPDATE b_lan... " />
-                <marker date="1506162187000" expanded="true" signature="110582:110650" ph="UPDATE b_lan... " />
-                <marker date="1506162187000" expanded="true" signature="111108:111172" ph="DELETE FROM " />
-                <marker date="1506162187000" expanded="true" signature="111309:111580" ph="INSERT INTO b_site_template... " />
-                <marker date="1506162187000" expanded="true" signature="112744:112816" ph="DELETE FROM " />
-                <marker date="1506162187000" expanded="true" signature="112856:112917" ph="DELETE FROM " />
-                <marker date="1506162187000" expanded="true" signature="113039:113110" ph="UPDATE b_eve... " />
-                <marker date="1506162187000" expanded="true" signature="113150:113217" ph="DELETE FROM " />
-                <marker date="1506162187000" expanded="true" signature="113411:113465" ph="DELETE FROM " />
-                <marker date="1506162187000" expanded="true" signature="120915:120921" ph=" " />
-                <marker date="1506162187000" expanded="true" signature="127203:127258" ph="SELECT * FRO... b_lang_domain" />
-                <marker date="1506162187000" expanded="true" signature="127816:127853" ph="SELECT * FRO... b_lang_domain" />
-                <marker date="1506162187000" expanded="true" signature="132056:132131" ph="SELECT 'x' F... b_language" />
-                <marker date="1506162187000" expanded="true" signature="132731:132774" ph="UPDATE b_lan... " />
-                <marker date="1506162187000" expanded="true" signature="132833:132905" ph="INSERT INTO b_language... " />
-                <marker date="1506162187000" expanded="true" signature="133418:133461" ph="UPDATE b_lan... " />
-                <marker date="1506162187000" expanded="true" signature="133577:133649" ph="UPDATE b_lan... " />
-                <marker date="1506162187000" expanded="true" signature="134481:134539" ph="DELETE FROM " />
-                <marker date="1506162187000" expanded="true" signature="143520:143563" ph="DELETE FROM " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="66" column="20" lean-forward="false" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="component.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/bitrix/components/bitrix/system.auth.form/component.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="80" column="28" lean-forward="false" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/system.auth.form/demo/template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="708">
-              <caret line="67" column="56" lean-forward="false" selection-start-line="67" selection-start-column="56" selection-end-line="67" selection-end-column="56" />
+              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -147,6 +62,7 @@
         <option value="$PROJECT_DIR$/public_html/local/templates/exam1/header.php" />
         <option value="$PROJECT_DIR$/public_html/login/index.php" />
         <option value="$PROJECT_DIR$/public_html/local/templates/exam1/components/bitrix/system.auth.form/demo/template.php" />
+        <option value="$PROJECT_DIR$/laradock-bitrix/.gitignore" />
       </list>
     </option>
   </component>
@@ -200,76 +116,20 @@
             <path>
               <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="laradock-bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="laradock-bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="data" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="exam1" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="exam1" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="exam1" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="exam1" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="system.auth.form" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="exam1" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="system.auth.form" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bitrix-github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bitrix-github" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="login" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="laradock-bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="data" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="percona" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -323,17 +183,18 @@
       <workItem from="1506969709082" duration="101000" />
       <workItem from="1507138826792" duration="2051000" />
       <workItem from="1507971035738" duration="9987000" />
-      <workItem from="1508572715862" duration="2883000" />
+      <workItem from="1508572715862" duration="3512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19408000" />
+    <option name="totallyTimeSpent" value="20037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1868" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20556745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20556745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -364,13 +225,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/laradock-bitrix/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2023">
-          <caret line="119" column="23" lean-forward="false" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -703,44 +557,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="245" column="43" lean-forward="false" selection-start-line="245" selection-start-column="43" selection-end-line="245" selection-end-column="43" />
-          <folding>
-            <marker date="1506162187000" expanded="true" signature="64237:64538" ph="SELECT MG.G_... b_group" />
-            <marker date="1506162187000" expanded="true" signature="68044:68309" ph="SELECT max(M... b_module_group" />
-            <marker date="1506162187000" expanded="true" signature="69441:69723" ph="SELECT MG.G_... b_module_group" />
-            <marker date="1506162187000" expanded="true" signature="71417:71541" ph="SELECT G_ACC... b_module_group" />
-            <marker date="1506162187000" expanded="true" signature="73148:73286" ph="SELECT GROUP... b_module_group" />
-            <marker date="1506162187000" expanded="true" signature="73578:73697" ph="DELETE FROM " />
-            <marker date="1506162187000" expanded="true" signature="73813:73901" ph="DELETE FROM " />
-            <marker date="1506162187000" expanded="true" signature="74039:74111" ph="DELETE FROM " />
-            <marker date="1506162187000" expanded="true" signature="77170:77334" ph="SELECT DOMAI... " />
-            <marker date="1506162187000" expanded="true" signature="77803:77840" ph="SELECT * FRO... b_lang_domain" />
-            <marker date="1506162187000" expanded="true" signature="107112:107183" ph="SELECT 'x' F... b_lang" />
-            <marker date="1506162187000" expanded="true" signature="107634:107693" ph="DELETE FROM " />
-            <marker date="1506162187000" expanded="true" signature="108214:108320" ph="INSERT INTO b_lang_domain... " />
-            <marker date="1506162187000" expanded="true" signature="108370:108464" ph="UPDATE b_lan... " />
-            <marker date="1506162187000" expanded="true" signature="108846:108885" ph="UPDATE b_lan... " />
-            <marker date="1506162187000" expanded="true" signature="109000:109068" ph="INSERT INTO b_lang... " />
-            <marker date="1506162187000" expanded="true" signature="109579:109863" ph="INSERT INTO b_site_template... " />
-            <marker date="1506162187000" expanded="true" signature="110403:110442" ph="UPDATE b_lan... " />
-            <marker date="1506162187000" expanded="true" signature="110582:110650" ph="UPDATE b_lan... " />
-            <marker date="1506162187000" expanded="true" signature="111108:111172" ph="DELETE FROM " />
-            <marker date="1506162187000" expanded="true" signature="111309:111580" ph="INSERT INTO b_site_template... " />
-            <marker date="1506162187000" expanded="true" signature="112744:112816" ph="DELETE FROM " />
-            <marker date="1506162187000" expanded="true" signature="112856:112917" ph="DELETE FROM " />
-            <marker date="1506162187000" expanded="true" signature="113039:113110" ph="UPDATE b_eve... " />
-            <marker date="1506162187000" expanded="true" signature="113150:113217" ph="DELETE FROM " />
-            <marker date="1506162187000" expanded="true" signature="113411:113465" ph="DELETE FROM " />
-            <marker date="1506162187000" expanded="true" signature="120915:120921" ph=" " />
-            <marker date="1506162187000" expanded="true" signature="127203:127258" ph="SELECT * FRO... b_lang_domain" />
-            <marker date="1506162187000" expanded="true" signature="127816:127853" ph="SELECT * FRO... b_lang_domain" />
-            <marker date="1506162187000" expanded="true" signature="132056:132131" ph="SELECT 'x' F... b_language" />
-            <marker date="1506162187000" expanded="true" signature="132731:132774" ph="UPDATE b_lan... " />
-            <marker date="1506162187000" expanded="true" signature="132833:132905" ph="INSERT INTO b_language... " />
-            <marker date="1506162187000" expanded="true" signature="133418:133461" ph="UPDATE b_lan... " />
-            <marker date="1506162187000" expanded="true" signature="133577:133649" ph="UPDATE b_lan... " />
-            <marker date="1506162187000" expanded="true" signature="134481:134539" ph="DELETE FROM " />
-            <marker date="1506162187000" expanded="true" signature="143520:143563" ph="DELETE FROM " />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -772,6 +589,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="708">
           <caret line="67" column="56" lean-forward="false" selection-start-line="67" selection-start-column="56" selection-end-line="67" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laradock-bitrix/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
