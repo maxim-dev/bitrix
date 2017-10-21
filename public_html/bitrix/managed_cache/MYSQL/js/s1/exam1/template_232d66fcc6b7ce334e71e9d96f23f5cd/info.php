@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/local/templates/exam1/js/jquery.min.js" => "150796731195957","/local/templates/exam1/js/owl.carousel.min.js" => "150796731140401","/local/templates/exam1/js/scripts.js" => "15079673113642",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>
